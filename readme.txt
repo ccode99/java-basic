@@ -48,10 +48,17 @@ Overloading1
 
 [Ctrl+←→] 한 간격 이동
 
-[Shift+↑↓←→] 드래그
-
 [Ctrl+D] 한줄 복사
 
 [Ctrl+Shift+Enter] 구문 완성 (; 닫아줌)
 
+[Shift+↑↓←→] 드래그
+
 [Shift+F6] 이름 변경
+
+[Alt+Enter] 오류 수정 추천
+
+[Alt+Insert] 생성자 자동 생성
+
+==========END==========
+
